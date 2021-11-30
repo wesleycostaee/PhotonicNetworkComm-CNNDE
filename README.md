@@ -1,4 +1,4 @@
-# Photonic Network Communications - Convolution Neural Network Direct Equalization
+# Photonic Network Communications - Convolution Neural Network Direct Equalization Dataset
 
 ## Description
 Dataset of the paper submited to the Photonic Network Communications entitled CNN Direct Equalization in OFDM-VLC Systems: Evaluations in a Numerical Model based on Experimental Characterizations.
