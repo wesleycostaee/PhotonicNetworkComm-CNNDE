@@ -7,4 +7,4 @@ Dataset of the paper submited to the Photonic Network Communications entitled CN
 The file XXXX is the CNN-DE input data while the file XXXX.csv is the set of targets to the CNN-DE neural network equalizer.
 
 ## For more informations 
-Contact me: wesleycostaee@gmail.com
+Contact me: Wesley <wesleycostaee@gmail.com>
